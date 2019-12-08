@@ -1,0 +1,11 @@
+C:\SelfEmprovement\Angular\angular8\coolinternettechnolgoies\rust1.3.9\hello-rust\target\debug\deps\ppv_lite86-cff924a13b918ba0.rmeta: C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\mod.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\sse2.rs
+
+C:\SelfEmprovement\Angular\angular8\coolinternettechnolgoies\rust1.3.9\hello-rust\target\debug\deps\libppv_lite86-cff924a13b918ba0.rlib: C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\mod.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\sse2.rs
+
+C:\SelfEmprovement\Angular\angular8\coolinternettechnolgoies\rust1.3.9\hello-rust\target\debug\deps\ppv_lite86-cff924a13b918ba0.d: C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\mod.rs C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\sse2.rs
+
+C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\lib.rs:
+C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\soft.rs:
+C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\types.rs:
+C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\mod.rs:
+C:\Users\espad\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6\src\x86_64\sse2.rs:
