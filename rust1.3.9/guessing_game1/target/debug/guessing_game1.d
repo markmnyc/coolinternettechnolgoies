@@ -1,0 +1,1 @@
+C:\SelfEmprovement\Angular\angular8\coolinternettechnolgoies\rust1.3.9\guessing_game1\target\debug\guessing_game1.exe: C:\SelfEmprovement\Angular\angular8\coolinternettechnolgoies\rust1.3.9\guessing_game1\src\main.rs
