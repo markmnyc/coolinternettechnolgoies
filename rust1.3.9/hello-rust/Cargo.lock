@@ -173,7 +173,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "smallvec"
-version = "0.4.5"
+version = "0.6.13
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
